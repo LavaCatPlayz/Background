@@ -7334,7 +7334,7 @@ html:only-child > head + body div.typeWindows-2-g3UY.titleBar-1it3bQ.horizontalR
 	bottom: unset !important;
 	right: unset !important;
 	opacity: 1 !important;
-	visibility: visible !important;
+	visibility: hidden !important;
 	transform: unset !important;
 	animation: unset !important;
 }
